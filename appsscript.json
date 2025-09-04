@@ -1,0 +1,16 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+
+  "dataStudio": {
+    "name": "OpenWeather App Connector",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
+    "company": "Codelab user",
+    "companyUrl": "https://developers.google.com/looker-studio/",
+    "addonUrl": "https://github.com/googledatastudio/example-connectors/tree/master/npm-downloads",
+    "supportUrl": "https://github.com/googledatastudio/community-connectors/issues",
+    "description": "Weather API",
+    "sources": ["npm"]
+  }
+}
